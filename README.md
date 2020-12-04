@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey, I'm Md. Nasimuzzaman 👋
 
-<!--
-**nasimuzzaman-nasim/nasimuzzaman-nasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer, Backend Enthusiast, & Tech Lover
 
-Here are some ideas to get you started:
+[![GitHub](https://img.shields.io/badge/GitHub-nasimuzzaman--nasim-black)](https://github.com/nasimuzzaman-nasim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nasimuzzaman--nasim-blue)](https://www.linkedin.com/in/nasimuzzaman-nasim/)
+[![Stack Overflow](https://img.shields.io/badge/Stack Overflow-nasimuzzaman--nasim-orange)](https://stackoverflow.com/users/10116285/nasimuzzaman-nasim)
+[![Website](https://img.shields.io/badge/Website-nasimuzzaman.me-green)](https://nasimuzzaman.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- [![Blog](https://img.shields.io/badge/Blog-blog.justinpaulhammond.com-yellowgreen)](https://blog.justinpaulhammond.com) -->
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasimuzzaman-nasim&&show_icons=true)](https://nasimuzzaman.me)
