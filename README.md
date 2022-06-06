@@ -16,5 +16,7 @@ named [Kakatua](https://kakatua.tech) & started my first job at July, 2020. Now,
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasimuzzaman-nasim&&show_icons=true)](https://nasimuzzaman.me)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasimuzzaman-nasim&&show_icons=true)](https://nasimuzzaman.me) -->
+![](https://raw.githubusercontent.com/nasimuzzaman-nasim/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
